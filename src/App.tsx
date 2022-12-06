@@ -11,9 +11,9 @@ function App() {
 
   const getGreetingMessage = () => {
     const hour = new Date().getHours()
-    if (hour < 12) setWelcomeText(`${welcomeTypes[0]}, ${startConfig.userName}.`);
-    else if (hour < 18) setWelcomeText(`${welcomeTypes[1]}, ${startConfig.userName}.`);
-    else setWelcomeText(`${welcomeTypes[2]}, ${startConfig.userName}.`);
+    if (hour < 12) setWelcomeText(`${welcomeTypes[0]}`);
+    else if (hour < 18) setWelcomeText(`${welcomeTypes[1]}`);
+    else setWelcomeText(`${welcomeTypes[2]}`);
   }
 
   const handleShuffleImage = () => {
