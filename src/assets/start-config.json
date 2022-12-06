@@ -1,0 +1,67 @@
+{
+    "title": "monet.",
+    "userName": "pari",
+    "searchPlaceHolder": "search on google",
+    "quickLinks": [
+        {
+            "groupTitle": "social",
+            "links": [
+                {
+                    "text": "twitter",
+                    "link": "https://twitter.com/home",
+                    "color": "#3291ff"
+                },
+                {
+                    "text": "reddit",
+                    "link": "https://www.reddit.com/",
+                    "color": "#f7b955"
+                },
+                {
+                    "text": "instagram",
+                    "link": "https://www.instagram.com/",
+                    "color": "#EB367F"
+                }
+            ]
+        },
+        {
+            "groupTitle": "code",
+            "links": [
+                {
+                    "text": "github",
+                    "link": "https://github.com/",
+                    "color": "#79ffe1"
+                },
+                {
+                    "text": "geist-ui",
+                    "link": "https://geist-ui.dev/en-us",
+                    "color": "#666"
+                }
+            ]
+        },
+        {
+            "groupTitle": "work",
+            "links": [
+                {
+                    "text": "gmail-1",
+                    "link": "https://mail.google.com/mail/u/0/#inbox",
+                    "color": "#ff1a1a"
+                },
+                {
+                    "text": "gmail-2",
+                    "link": "https://mail.google.com/mail/u/1/#inbox",
+                    "color": "#ff1a1a"
+                },
+                {
+                    "text": "notion",
+                    "link": "https://www.notion.so/paritoshpatil/General-Notes-5c66997f40ed4821b60953ce24b0aa51",
+                    "color": "#8a63d2"
+                },
+                {
+                    "text": "youtube",
+                    "link": "https://www.youtube.com/",
+                    "color": "#ff1a1a"
+                }
+            ]
+        }
+    ]
+}
